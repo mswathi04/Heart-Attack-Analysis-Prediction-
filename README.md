@@ -24,11 +24,11 @@ The dataset used in this project is the Heart Attack Analysis & Prediction Datas
 ## Objective
 
 1. Identify predictor and response variable.
-2. apply different classification methods to below 4 cases and analyse its performance,
-\n   i   train_size : test_size = 80 : 20 and Threshold = 0.5
-\n   ii  train_size : test_size = 80 : 20 and Threshold = 0.6
-\n   iii train_size : test_size = 70 : 30 and Threshold = 0.5
-\n   iv  train_size : test_size = 70 : 30 and Threshold = 0.6
+2. apply different classification methods to below 4 cases and analyse its performance,\n
+   i   train_size : test_size = 80 : 20 and Threshold = 0.5\n
+   ii  train_size : test_size = 80 : 20 and Threshold = 0.6\n
+   iii train_size : test_size = 70 : 30 and Threshold = 0.5\n
+   iv  train_size : test_size = 70 : 30 and Threshold = 0.6
 
 ## Methodology
 
